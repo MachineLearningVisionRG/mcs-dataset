@@ -37,7 +37,18 @@ We built upon the original dataset, called [Marble Surface Anomaly Detection - 2
 # Citation
 If you use the dataset in a scientific publication, please cite us using the following bibtex citation:
 ```
-TODO (when published)
+@Article{electronics11203289,
+    AUTHOR = {Vrochidou, Eleni and Sidiropoulos, George K. and Ouzounis, Athanasios G. and Lampoglou, Anastasia and Tsimperidis, Ioannis and Papakostas, George A. and Sarafis, Ilias T. and Kalpakis, Vassilis and Stamkos, Andreas},
+    TITLE = {Towards Robotic Marble Resin Application: Crack Detection on Marble Using Deep Learning},
+    JOURNAL = {Electronics},
+    VOLUME = {11},
+    YEAR = {2022},
+    NUMBER = {20},
+    ARTICLE-NUMBER = {3289},
+    URL = {https://www.mdpi.com/2079-9292/11/20/3289},
+    ISSN = {2079-9292},
+    DOI = {10.3390/electronics11203289}
+}
 ```
 
 Also cite the original dataset, using the following bibtex:
