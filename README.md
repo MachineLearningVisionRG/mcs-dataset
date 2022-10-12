@@ -10,9 +10,9 @@ The detection of flaws using computer vision is a difficult task due to the comp
 
 # Dataset Properties
 
-* Total samples: 441
+* Total samples: 246
 * Number of classes: 2 (0: background, 1: crack)
-* Image format: jpg
+* Image format: jpg/png
 * Image size: 256xx256
 
 # Acknowledgements
