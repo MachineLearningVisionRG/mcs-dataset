@@ -15,6 +15,21 @@ The detection of flaws using computer vision is a difficult task due to the comp
 * Image format: jpg/png
 * Image size: 256xx256
 
+## Structure
+```
+.
+├── dataset
+    ├── images
+      ├── _0_0_20210531_17292.jpg
+      ├── _0_0_20210531_17293.jpg
+      ...
+    ├── masks
+      ├── _0_0_20210531_17292.png
+      ├── _0_0_20210531_17293.png
+      ...
+```
+Each image's corresponding mask has the same name (but with a png extention).
+
 # Acknowledgements
 
 We built upon the original dataset, called [Marble Surface Anomaly Detection - 2](www.google.com) and uploaded by Aman Rastogi to kaggle, by annotating the marbles with cracks for semantic segmenation.
